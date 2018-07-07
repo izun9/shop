@@ -1,0 +1,13 @@
+{
+    "name": "get-started-node",
+    "version": "0.1.0",
+    "dependencies": {
+      "micro": "latest",
+      "nuxt": "latest"
+    },
+    "scripts": {
+      "start": "micro",
+      "dev": "nuxt",
+      "build": "nuxt build"
+    }
+  }
