@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "micro": "latest",
     "gsap": "^1.20.3",
+    "micro": "^9.3.2",
     "node-sass": "^4.7.2",
     "nuxt": "latest",
     "sass-loader": "^6.0.6",
@@ -38,5 +38,3 @@
     "url": "packag.json"
   }
 }
-
-
